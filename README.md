@@ -1,0 +1,2 @@
+# algoritmi-greedy-per-la-ricerca-dei-percorsi-minimi-nei-grafi
+Questo repository contiene codici, esempi e risorse relativi agli algoritmi greedy per la ricerca dei percorsi minimi nei grafi (come, ad esempio, Dijkstra). Al suo interno troverai implementazioni, approfondimenti teorici, test e documentazione per comprendere e sperimentare le principali tecniche di ottimizzazione dei cammini in un grafo
